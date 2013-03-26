@@ -29,7 +29,7 @@ public class Item extends AGameElement {
 
 	public Item(int id) {
 		super(id);
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub or so
 	}
 
 }
